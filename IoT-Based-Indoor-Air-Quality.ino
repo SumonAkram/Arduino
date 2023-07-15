@@ -192,4 +192,4 @@ if(ser.find(">")){
                                 // Update after every 15 seconds
 
 
-}
+} 
